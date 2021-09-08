@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.page-wrapper{
+    background-color: blue;
+    padding: 20px;
+    
+}
+.top-wrapper{
+    background-color: black;
+    text-align: center;
+    font-color:red;
+    padding-bottom: 500px;
+    margin: -30px;
+}

@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+
+}
+.page-maker1{
+background-color: blue;
+height:15vh;
+width: 100px;
+margin-top:-18px;
+float: right;
+}
+.page-maker2{
+    background-color:red;
+    height:15vh;
+    width: 100px;
+    margin-bottom:-18px;
+    float: right; 
+    margin-top: 70px;   
+
+}
+.page-maker3{
+        background-color:yellowgreen;
+        height:15vh;
+        width: 100px;
+        margin-bottom:-18px;
+        float: right; 
+        margin-top: 160px;  
+}
+.page-maker4{
+    background-color:indigo;
+    height:15vh;
+    width: 100px;
+    margin-bottom:-18px;
+    float: right; 
+    margin-top: 250px;  
+
+}
+.page-maker5{
+    background-color:hotpink;
+    height:15vh;
+    width: 100px;
+    margin-bottom:-18px;
+    float: right; 
+    margin-top: 340px;  
+}

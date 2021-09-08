@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+.page-wrapper{
+    background-color: blue;
+    margin-bottom: -50px;
+    height: 20vh;
+    width: 100px;
+    margin: -10px;
+
+}

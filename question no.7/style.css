@@ -1,0 +1,47 @@
+body{
+    background-color:none;
+    background-position: none;
+}
+.page-wrapper{
+    background-color: rgb(177, 177, 50);
+    height: 350px;
+    width: 500px;
+    margin-top: 250px;
+    margin-left: 400px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-bottom: 250px;
+ 
+
+}
+.page-wrapper2{
+    background-color:lime;
+    height: 50px;
+    width: 400px;
+   margin-right: 500px;
+   margin-top: 80px;
+   margin-left: 50px;
+}
+.page-wrapper3{
+    background-color: rosybrown;
+    height: 230px;
+    width: 400px;
+    margin-top: 1px;
+   margin-right: 500px;
+   margin-left: 50px;
+
+}
+.page-wrapper4{
+    background-color:indianred;
+    height: 68px;
+    width: 400px;
+    margin-top: 1px;
+   margin-right: 500px;
+   margin-left: 50px;
+}
+
+
+    
+    
+
+ 

@@ -1,0 +1,16 @@
+.page-maker{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100%;
+}
+.page-maker1{
+    background-color: brown;
+    height: 100px;
+    width: 100%;
+}
+.page-maker2{
+    background-color: red;
+    height: 100px;
+    width: 100%;
+    margin-top: 60px;
+}
